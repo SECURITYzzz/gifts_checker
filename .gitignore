@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+.idea/
+.env
+*.db
+*.session
+*.session-journal
+log.txt
+*.exe
+build/
+dist/
+*.spec
